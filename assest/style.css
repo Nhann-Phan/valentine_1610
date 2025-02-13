@@ -147,13 +147,13 @@
 .det{
     position: absolute;
     top: 0;
-    left: 35%;
+    left: 25%;
 }
 
 .khum{
     position: absolute;
     top: 0;
-    right: 35%;
+    right: 25%;
 }
 #yes-no-date .det:hover{
     background-color: rgb(227, 97, 167);
